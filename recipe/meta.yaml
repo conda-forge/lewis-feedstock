@@ -31,7 +31,6 @@ requirements:
     - semantic_version
     - pyyaml
     - scanf
-    - pyasynchat
 
 test:
   imports:
